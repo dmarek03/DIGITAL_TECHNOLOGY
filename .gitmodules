@@ -1,0 +1,3 @@
+[submodule "vga_project/vga_src"]
+	path = vga_project/vga_src
+	url = https://github.com/szym-mie/vga_src.git
